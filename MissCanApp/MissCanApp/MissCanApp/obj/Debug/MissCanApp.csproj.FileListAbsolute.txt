@@ -1,0 +1,8 @@
+C:\Users\shkum\Downloads\MissCanApp\MissCanApp\MissCanApp\bin\Debug\MissCanApp.exe
+C:\Users\shkum\Downloads\MissCanApp\MissCanApp\MissCanApp\bin\Debug\MissCanApp.pdb
+C:\Users\shkum\Downloads\MissCanApp\MissCanApp\MissCanApp\obj\Debug\MissCanApp.csprojResolveAssemblyReference.cache
+C:\Users\shkum\Downloads\MissCanApp\MissCanApp\MissCanApp\obj\Debug\MissCanApp.Properties.Resources.resources
+C:\Users\shkum\Downloads\MissCanApp\MissCanApp\MissCanApp\obj\Debug\MissCanApp.csproj.GenerateResource.Cache
+C:\Users\shkum\Downloads\MissCanApp\MissCanApp\MissCanApp\obj\Debug\MissCanApp.csproj.CoreCompileInputs.cache
+C:\Users\shkum\Downloads\MissCanApp\MissCanApp\MissCanApp\obj\Debug\MissCanApp.exe
+C:\Users\shkum\Downloads\MissCanApp\MissCanApp\MissCanApp\obj\Debug\MissCanApp.pdb
